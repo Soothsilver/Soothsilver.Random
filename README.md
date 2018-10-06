@@ -5,5 +5,6 @@ The static class "R" contains static methods "Next", "NextDouble" and "NextFloat
 
 It's on NuGet: https://www.nuget.org/packages/Soothsilver.Random/1.1.0
 
-To install with NuGet: Install-Package Soothsilver.Random -Version 1.1.0	
+To install with NuGet: `Install-Package Soothsilver.Random -Version 1.1.0`
+
 If you don't want to use NuGet, just put the file `R.cs` into your project.
